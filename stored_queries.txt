@@ -1,0 +1,257 @@
+What is advance chart?
+What is SNOMED coding and how is it used in medical records?
+How can I search for available appointment slots?
+Can I create my own custom SNOMED codes?
+How can I view the history of an appointment?
+How do I find the correct SNOMED code for a specific condition or symptom?
+What types of reports are available in the system?
+Can I edit or delete SNOMED codes associated with my custom history items?
+How can I create a care plan for a patient
+How can I annotate scanned documents with text?
+What is a CCDA and how is it used
+What are the different font options available for text annotations?
+How can I generate a CCDA for a patient?",
+How do I block or schedule appointments in the system?
+How can I copy a previous exam for a patient?
+Med Reconciliation Clinical Informatio
+Preventive Care and Screening: Screening for Clinical Depression and Follow-up Plan
+Childhood Immunization Status
+how to add patient vitals
+Appropriate Testing for Children with Pharyngitis
+Measure 147: Preventive Care and Screening: Influenza Immunization
+Preventive Care and Screening: Influenza Immunization
+how can a patient register for API Access account
+what is API Access
+API Access Activation Report
+Patient Portal Post Authentication
+where is My Access Log
+how to add patient details
+what is snomed
+What is the Patient Portal?
+How do I log in to the Patient Portal?
+What features are available on the Patient Portal?
+What features are available on the Patient Portal?\
+How can I activate my account on the Patient Portal?
+What should I do if I forgot my username?
+What should I do if I forgot my username
+How can I update my profile information?
+How do I log out of the Patient Portal?
+Can a patient representative access the Patient Portal?
+How can I submit a PHI document?
+How can I view my upcoming appointments?
+How do I request a new appointment?
+Can I see my past appointments on the portal?
+How do I access my health records?
+What information can I find in my clinical summary?
+How can I download my health information?
+How do I share my health information with a third party?
+How can I view my outstanding bills?
+What payment methods are accepted on the portal?
+How do I make a payment through the Patient Portal?
+What information do I need to enter to pay my bills?
+How can I view my account statements?
+HOW TO ADD PATIENT VITALS
+How do I report a technical issue with the portal?
+What should I do if I encounter an error while logging in?
+How can I contact support for help with the Patient Portal?
+Where can I find a user manual for the Patient Portal?
+Are there any tutorials available for using the Patient Portal?
+WHAT IS THE BLOOD TYPE OF SAURABH
+who is saurabh kale
+who is saurabh
+How do I log in to the Patient Portal?
+What features are available on the Patient Portal?
+How can I activate my account on the Patient Portal?
+What should I do if I forgot my username?
+What should I do if I forgot my password?
+How can I update my profile information?
+How do I log out of the Patient Portal?
+Can a patient representative access the Patient Portal?
+How can I submit a PHI document?
+How can I change my password?
+How do I change my username and security settings?
+How can I view my access log?
+How many accounts can I manage on the dashboard?
+How can I view my access log?
+How can I send a secure message to my practice?
+How do I view messages I�ve received?
+How can I reply to a message from my practice?
+Where can I find the sent messages?
+How can I view my upcoming appointments?
+How do I request a new appointment?
+Can I see my past appointments on the portal?
+How can I cancel an appointment?
+How do I access my health records?
+What are the different sections available in my health record?
+How do I make a payment through the Patient Portal?
+What information do I need to enter to pay my bills?
+How can I submit patient forms online?
+What information is required to fill out the patient forms?
+What happens if I don't complete my forms in one session
+What should I do if I encounter an error while logging in?
+How can I reset my password if I forget the answer to my security question?
+Why can�t I see my account statements on the dashboard?
+How do I report a technical issue with the portal?
+How can I receive reminders for upcoming appointments?
+What notifications will I get regarding my health information?
+How can I contact support for help with the Patient Portal?
+Where can I find a user manual for the Patient Portal?
+Are there any tutorials available for using the Patient Portal?
+What is the MU Dashboard Count Report?
+How does the Disease Management rules filter work?
+What is the DM Due Date filter, and how do I enable it?
+How can I print in the background in Patient Reminders?
+How can I print in background in Patient Reminders?
+What happens if the default printer is not selected during background printing?
+How can I check the progress of background printing?
+How do I create a new Patient Reminder task?
+What details are important for creating a new task in Patient Reminders?
+How do I view and complete a task in Patient Reminders?
+What should I do when the task reminder is delivered?
+Can I assign a task to a specific user in Patient Reminders?
+How can I route �Recall Appointment� tasks to a specific user?
+3
+How can I route �Recall Appointment� tasks to a specific user?
+How do I generate a Patient Reminder Letter report?
+How do I specify a date range for the Patient Reminder Letter report?
+What is the Patient Status feature used for?
+How do I track a patient�s movement through the office?
+How can I customize the Location and Status categories for Patient Status?
+How do I define Patient Status Locations?
+How do I define Patient Status Locations?
+How do I update a patient�s location in Patient Status?
+How do I set default users for tasks related to Patient Status updates?
+How do I set default users for tasks related to Patient Status updates?\
+How do I set default users for tasks related to Patient Status updates?
+How do I disable default user association in Patient Status?
+How do I disable default user association in Patient Status?
+What is the process for checking a patient out of an appointment?
+How can I view a patient�s status history?
+How can I customize the colors of Patient Status flags?
+: How do I set up the Enable Static Color setting for Patient Status?
+How do I set up the Enable Static Color setting for Patient Status?
+What are the types of Patient Savings opportunities?
+How does the 30-to-90 Day Dispense Opportunity work?
+What is the Generic Alternative Opportunity in Patient Savings?
+What is the Generic Alternative Opportunity in Patient Savings
+How do I enable Rx Savings notifications on the dashboard?
+How do I enable Rx Savings notifications on the dashboard
+How do I display Patient Savings opportunities in the EMR?
+What are the types of Patient Savings opportunities
+: How does the 30-to-90 Day Dispense Opportunity work?
+What should I do if I have a pending Patient Savings opportunity?
+What is the purpose of the "Unfinished Exams" panel on the dashboard?
+what is advance charts
+What is the purpose of the "Unfinished Exams" panel on the dashboard IN qmp
+What is the purpose of the "Unfinished Exams" panel on the dashboard on page 95
+How does the system display unfinished exams if there are more than one hundred?
+Explain the functionality of the "Recent Patients" button in QEMR and QPM
+Explain the functionality of the "Recent Patients" button in QEMR and QPM.
+Explain the functionality of the "Recent Patients" in QEMR and QPM.
+Explain the functionality of the Recent Patients in QEMR and QPM.
+what is the Recent Patients in QEMR and QPM.
+what is general features of the Recent Patients in QEMR and QPM.
+How are patients listed in the "Recent Patients" screen managed when a new patient is viewed?
+How are patients listed in the "Recent Patients" screen managed when a new patient is viewed in QPM AND QEMR
+Describe the process of defining DAS settings for ESR and CRP values in the QEMR Admin.
+How is a lab test mapped to specific lab results in the DAS Calculator setup?
+What steps are involved in enabling the DAS 28 icon in the QEMR application?
+What information is displayed in the DAS Calculator window regarding joint counts?
+What information is displayed in the DAS Calculator window regarding joint counts?
+WHAT IS DAS CALCULATOR
+How are tender and swollen joints visually represented in the DAS Calculator?
+What is the range of values that can be entered for ESR and CRP in the DAS Calculator?
+Describe the process of saving and closing the DAS record in the Add Vitals dialog box.
+What is the purpose of the DAS Liquid Link?
+WHAT IS DAS Liquid Link
+DAS Liquid Link
+HOW TO VIEW DAS
+How can providers send secure messages with attachments to other providers using the sure script network?
+explain Provider Direct Messaging
+How can I search for available appointment slots?
+How can I search for available appointment slots?
+What is SNOMED coding and how is it used in medical records?
+How can I view the history of an appointment?
+hi
+fdfds
+how to add patient vitals in QPM
+How do I block or schedule appointments in the system?
+Childhood Immunization Status
+What is the Patient Portal?
+What features are available on the Patient Portal?
+What payment methods are accepted on the portal?
+: Can I create my own custom SNOMED codes?
+How do I find the correct SNOMED code for a specific condition or symptom?
+how to add patient vitals in QEMR
+what is a das calculator
+what is sno meds
+How do I log in to the Patient Portal?
+How many accounts can I manage on the dashboard?
+what are payment modes
+what is das calculator
+WHAT IS ADVANCE CHARTS
+WHAT IS SNO MEDS
+what is advance charst
+STEPS TO ADD ADVANCE CHARTS
+what are the payment modes
+what is advance chart
+WHAT IS ADVANCE CHART
+WHAT IS SNOMEDS
+WHTA IS ADVANCE CHART
+Describe the process of defining DAS settings for ESR and CRP values in the QEMR
+How are tender and swollen joints visually represented in the DAS Calculator?
+What is the purpose of the DAS Liquid Link?
+What settings need to be enabled in QEMR Admin for Provider Direct Messaging?
+: How are user rights for Provider Direct Messaging assigned in the QEMR Admin?
+How are user rights for Provider Direct Messaging assigned in the QEMR Admin?
+Explain the process of delegating a provider�s gloDirect inbox to another user.
+Explain the process of delegating a provider�s inbox to another user.
+What features are available in the Provider Direct Message Inbox?
+How can users send a new message to other providers in the QEMR system?
+What types of documents can be attached to a Provider Direct Message?
+: What types of documents can be attached to a Provider Direct Message?
+Describe the process and options available for sending a Direct Message from the New Exam module in QEMR
+how to add patient vitals steps to add
+how to add patient vitals steps to add qemr
+Describe the process and options available for sending a Direct Message from the New Exam module in QEMR.
+What are the two tabs under which Patient Clinical Recommendations are displayed?
+Describe the process of marking a recommendation as "Satisfied."
+Describe the process of marking a recommendation as Satisfied
+WHAT IS ADVANCE CHARST
+how can i mark a recommendation as "Satisfied."
+What action should be taken for recommendations that are being worked on but not yet completed?
+How can a user view the history of actions taken against a particular recommendation?
+What are the steps to add a Date Picker to a template in the system?
+What growth charts are used to monitor growth for infants and children ages 0 to 24 months
+How can a user calculate a patient's BMI based on the values entered in the system?
+What is the workflow for doing a re-check on one or two elements of a patient's vitals, such as a BP recheck
+What is the workflow for doing a re-check on one or two elements of a patient's vitals
+How are SnoMed codes used in the system for Meaningful Use
+How can a provider edit text that has been added to a scanned document?
+What is the new setting that has been added to the system to eliminate the message that appears when an appointment is longer than the existing template slots?
+How can a user view the history of an appointment?
+What are the two new reports that have been added to the View->Vitals screen
+What is the desired performance percentage for Measure 122: Diabetes: Hemoglobin A1c (HbA1c) Poor Control (> 9%)
+What is the difference between acknowledging and reviewing a scanned document in the system?
+What types of patient-related data can be printed, faxed, or exported using the Clinical Chart feature?
+What are the SNOMEDCT codes for "Anaphylaxis due to Hepatitis B vaccine (disorder)" and "Influenza virus vaccine adverse reaction (disorder)"
+What is the time period for the Diabetes: Hemoglobin A1c (HbA1c) Poor Control (> 9%) measurement?
+What are three examples of commercial use, as defined in the provided source?
+What does the source list as the seventh leading cause of death in the U.S.?
+what is mu dashboard
+what is block schedule appointment
+How do I set up the Enable Static Color setting for Patient Status?
+How do I set up the Enable Static Color setting for Patient Status IN QEMR
+What is the desired performance percentage for Measure 122: Diabetes: Hemoglobin A1c (HbA1c) Poor Control (> 9%)
+What is the time period for the Diabetes: Hemoglobin A1c (HbA1c) Poor Control (> 9%) measurement?
+what is snomeds in qemr
+add vitals
+what  is sno meds
+file:///C%3A/Users/saurabh.kale/Downloads/SQL_QUERY_GENERATOR_TWO/SQL_QUERY_GENERATOR/SQL_QUERY_GENERATOR/Demo_AI_EMR_Help_Docs_2.pdf#page=936
+Vital Norms
+Measure 146: Appropriate Testing for Children with Pharyngitis
+give details about Preventive Care and Screening:  Influenza Immunization
+Diabetes: HbA1c Poor Control >9% (CMS122
+What is the time period for the Diabetes: Hemoglobin A1c (HbA1c) Poor Control (> 9%) measurement?
+file:///C:/Users/saurabh.kale/Downloads/SQL_QUERY_GENERATOR_TWO/SQL_QUERY_GENERATOR/SQL_QUERY_GENERATOR/pdf2.pdf#page=830
+how to add patient vitals in qemr
